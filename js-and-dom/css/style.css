@@ -8,3 +8,9 @@
 body{
   background-color: purple;
 }
+
+canvas{
+  position: absolute;
+  left:500px;
+  top:0px;
+}
