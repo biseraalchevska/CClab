@@ -4,3 +4,7 @@
   background-color: green;
   transition: all 1s;
 }
+
+body{
+  background-color: purple;
+}
