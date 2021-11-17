@@ -1,0 +1,47 @@
+html{
+  background-color: #FFD8C5;
+}
+
+.headerPart{
+  font-family: monospace;
+  border: 10px ridge #70D0C6;
+  background-color: #FEA889;
+  margin: 5px;
+  padding: .5rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 10px;
+}
+.mainPart{
+  background-color: #FEA889;
+  border: 10px ridge #70D0C6;
+  width: 980px;
+  height: 530px;
+  float: left;
+  margin: 5px;
+
+}
+.instructionsPart{
+  font-family:monospace;
+  background-color: #FEA889;
+  border: 10px ridge #70D0C6;
+  width: 220px;
+  height:530px;
+  float: right;
+  margin: 5px;
+  text-align: center;
+}
+.button {
+  position: relative;
+  left: 5px;
+  background-color: #70D0C6;
+  color: black;
+  padding: 2px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 9px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
