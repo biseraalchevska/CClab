@@ -1,0 +1,59 @@
+.buttons{
+  width: 500px;
+  height: 500px;
+}
+
+.button{
+  background-color: #f9881e;
+  border: none;
+  padding: 55px;
+  width:200px;
+  height:2px;
+  position: absolute;
+  margin: 73vh 78vw;
+  cursor: pointer;
+  border-radius: 60%;
+  font-family: fantasy;
+  font-style: oblique;
+  font-size: 15px;
+}
+
+.button1{
+  background-image: url('assets/space_inv.png');
+  background-size: cover;
+  background-color: #f44915;
+  border: none;
+  padding: 90px;
+  width:200px;
+  height:2px;
+  position: absolute;
+  margin: 75vh 78vw;
+  cursor: pointer;
+  border-radius: 30%;
+}
+.button3{
+  background-color: #f9881e;
+  border: none;
+  padding: 55px;
+  width:200px;
+  height:2px;
+  position: absolute;
+  margin: 73vh 5vw;
+  cursor: pointer;
+  border-radius: 60%;
+  font-family: fantasy;
+  font-style: oblique;
+  font-size: 15px;
+}
+.button4{
+  color: #f44915;
+  background-color: #f44915;
+  border: none;
+  padding: 90px;
+  width:200px;
+  height:2px;
+  position: absolute;
+  margin: 75vh 5vw;
+  cursor: pointer;
+  border-radius: 30%;
+}
